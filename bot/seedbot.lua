@@ -220,70 +220,56 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {110626080,103649648,0,tonumber(our_id)},--Sudo users
+    sudo_users = {178263682,172767635,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v1
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[This bot maked by @amir_ab_1
+👽sudo: @amir_ab_1
+        @Tmbaax
 
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
 ]],
     help_text = [[
 Commands list :
 
 !kick [username|id]
-You can also do it by reply
+You can also do it by reply👌
 
 !ban [ username|id]
-You can also do it by reply
+You can also do it by reply👌
 
 !unban [id]
-You can also do it by reply
+You can also do it by reply👌
 
 !who
-Members list
+Members list👌
 
 !modlist
-Moderators list
+Moderators list👌
 
 !promote [username]
-Promote someone
+Promote someone👌
 
 !demote [username]
 Demote someone
 
 !kickme
-Will kick user
+Will kick user👌
 
 !about
-Group description
+Group description👌
 
 !setphoto
-Set and locks group photo
+Set and locks group photo👌
 
 !setname [name]
-Set group name
+Set group name👌
 
 !rules
-Group rules
+Group rules👌
 
 !id
-return group id or user id
+return group id or user id👌
 
 !help
 
@@ -300,25 +286,25 @@ Set <text> as rules
 Set <text> as about
 
 !settings
-Returns group settings
+Returns group settings👌
 
 !newlink
-create/revoke your group link
+create/revoke your group link👌
 
 !link
-returns group link
+returns group link👌
 
 !owner
-returns group owner id
+returns group owner id👌
 
 !setowner [id]
-Will set id as owner
+Will set id as owner👌
 
 !setflood [value]
 Set [value] as flood sensitivity
 
 !stats
-Simple message statistics
+Simple message statistics👌
 
 !save [value] <text>
 Save <text> as [value]
@@ -342,13 +328,15 @@ will return group ban list
 **U can use both "/" and "!" 
 
 
-*Only owner and mods can add bots in group
+❤️Only owner and mods can add bots in group
 
 
-*Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
+💛Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands
-
+💚Only owner can use res,setowner,promote,demote and log commands
+ 
+For more info: @amir_ab_1💞
+               @Tmbaax💞
 ]]
 
   }
